@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Tarjeta de crédito válida</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body class="bodyimg">
+    <header id="Titulo">Bienvenid@, vamos a validar tu tarjeta </header>
+    
+
+      <div class="flex-container"> 
+        <div><img class="tarjetafrente" src="Imagenes/tarjeta frente.png"/></div>
+        <div><img class="tarjetareverso" src="Imagenes/Reversof.png" /></div>
+
+      </div>
+
+
+      <form id="formulario" >
+
+        <br>
+       <br>
+        <br>
+       <div class="Datoscompletos">
+       <div><label class="mititulo">Datos Personales: </label></div>
+       <br>
+      <div class="flex-containerdatos">
+        <label for="nombre" class="milabel">Nombre:</label>
+        <input  class= "nombre" id="nombre"  name="nombre" type="text"  placeholder="Ejm: Jaime Salazar"  >
+        <label class="milabel" for="ntc">Número de Tarjeta:</label>
+        <input  class="ntc-input" id="ntc"  name="numero de tarjeta" type="text" pattern="\d*" maxlength= "16" placeholder=" Ejm: xxxx xxxx 6789"  >
+        
+      </div>
+        <br>
+        <br>
+
+      <div>
+        <div><label class="mititulo" for="fechaexpiración">Fecha de Expiración: </label></div>
+        <br>
+        <br>
+        <label class="milabel" for="Month">Mes/Año:</label>
+        <input class="mes" id="Month"   name="mes" placeholder="MM" maxlength="2" type="month"  >
+        <label class="milabel" for="cvc">CVC</label>
+        <input class="cvc-input" id="cvc"   name="cvc" placeholder="123" maxlength="3">
+      
+      </div>
+    </div>
+
+      <br>
+      <br>
+
+      <div class="boton">
+
+        <div> <button type="submit" class="button" id="btnv">VALIDAR</button></div>
+  
+    </div>
+  
+     
+    </form>
+    
+      
+      <script src="index.js" type="module"></script>
+      <!-- Bootstrap JS and dependencies -->
+  
+    </body>
+  </html>
