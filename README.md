@@ -34,6 +34,9 @@ individual, siempre tuve apoyo a mi alrededor lo que me permitió avanzar en el 
 
 
 
+
+
+
 ## 2. Objetivos de aprendizaje
 
 •	Trabajar con base a un modelo estándar, la estructura básica de un proyecto en distintas carpetas 
