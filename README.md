@@ -12,8 +12,22 @@
 
 ## 1. Resumen del proyecto
 
-Este proyecto tuvo como finalidad diseñar una aplicación web que le permitiera al usuario final  validar el número de una tarjeta de crédito, implementando también la funcionalidad de ocultar todos los dígitos de la tarjeta exceptuando los últimos cuatro.
-En este caso se realizó como primera instancia un prototipo de baja fidelidad el cual permitió dar una idea de lo que se quería mostrar a nivel de diseño, ya que las pautas de funcionalidad estaban dadas.
+Este proyecto tuvo como finalidad diseñar una aplicación web que le permitiera al usuario final 
+validar el número de una tarjeta de crédito, implementando también la funcionalidad de ocultar 
+todos los dígitos de la tarjeta exceptuando los últimos cuatro.
+En este caso se realizó como primera instancia un prototipo de baja fidelidad el cual permitió 
+dar una idea de lo que se quería mostrar a nivel de diseño, ya que las pautas de funcionalidad 
+estaban dadas.
+
+En este caso se realizó como primera instancia un prototipo de baja fidelidad el cual
+permitió dar una idea de lo que se quería mostrar a nivel de diseño, ya que las pautas de 
+funcionalidad estaban dadas.
+
+![image](https://github.com/LinaAtehortua/DEV007-card-validation/assets/129763647/e20b5783-233e-4d0a-9203-c4b74ea8c633)
+
+
+
+
 
 
 
