@@ -36,17 +36,23 @@ individual, siempre tuve apoyo a mi alrededor lo que me permitió avanzar en el 
 
 ## 2. Objetivos de aprendizaje
 
+•	Trabajar con base a un modelo estándar, la estructura básica de un proyecto en distintas carpetas 
+(a través de módulos en JS).
+
+En este objetivo logré entender las distintas carpetas que se manejan y la estructura básica de cada una de ellas.
 
 
-### Los objetivos generales de este proyecto son los siguientes
+•	Conocer las herramientas de mantenimiento y mejora del código (linters y pruebas unitarias).
 
-* Trabajar en base a un boilerplate, la estructura básica de un proyecto en
-  distintas carpetas (a través modulos en JS).
-* Conocer las herramientas de mantenimiento y mejora del código (linters y
-  pruebas unitarias).
-* Aprender sobre objetos, estructuras, métodos e iteración (bucles)
-  en JavaScript
-* Implementar control de versiones con git (y la plataforma github)
+Entender la importancia de la mejora en el código y de la verificación del mismo para que nuestro código sea más eficiente.
+
+
+•	Aprender sobre objetos, estructuras, métodos e iteración (bucles) en JavaScript
+Logre aprender varios temas de este objetivo, sin embargo debo seguir reforzando conocimiento para sentir más seguridad al momento de codear.
+
+
+•	Implementar control de versiones con git (y la plataforma github)
+
 
 ## 3. Consideraciones generales
 
