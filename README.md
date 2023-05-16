@@ -3,7 +3,7 @@
 ## Índice
 
 * [1. Resumen del proyecto](#1-preámbulo)
-* [2. Resumen del proyecto](#2-resumen-del-proyecto)
+* [2. Objetivos de aprendizaje](#2-resumen-del-proyecto)
 * [3. Consideraciones generales](#3-consideraciones-generales)
 * [6. Consideraciones técnicas](#6-consideraciones-técnicas)
 
