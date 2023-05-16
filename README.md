@@ -54,14 +54,24 @@ Logre aprender varios temas de este objetivo, sin embargo debo seguir reforzando
 •	Implementar control de versiones con git (y la plataforma github)
 
 
-## 3. Consideraciones generales
+## 3. ¿A quién va dirigido el proyecto?
 
-* Este proyecto lo resolvemos de manera **individual**.
-* El rango de tiempo estimado para completar el proyecto es de 1 a 3 Sprints.
-* Enfócate en aprender y no solamente en "completar" el proyecto.
-* Te sugerimos que no intentes saberlo todo antes de empezar a codear.
-  No te preocupes demasiado ahora por lo que _todavía_ no entiendas.
-  Irás aprendiendo.
+Este producto va dirigido a cualquier persona o empresa que desee implementar métodos de pago ágiles, 
+a través del pago en línea con tarjeta de crédito. 
+
+
+Funcionamiento:
+El funcionamiento es muy sencillo e intuitivo ya que una vez realice la compra el sistema le genera
+una página donde solo debe ingresar 4 datos, con uno de éstos, más específicamente número de tarjeta 
+de crédito lograremos verificar si la tarjeta es válida o no.
+La usuaria debe ingresar los números de la tarjeta de crédito y dar clic en el botón validar allí podrá 
+verificar la validación o no del número ingresado y al final el sistema cubrirá todos los números menos 
+los últimos 4 (cuatro), esto para mayor seguridad. 
+
+
+![image](https://github.com/LinaAtehortua/DEV007-card-validation/assets/129763647/b75f732c-ac56-4c4b-9e7d-472943b4e94f)
+
+
 
 ## 4. Hito: Criterios de aceptación mínimos del proyecto
 
