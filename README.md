@@ -76,55 +76,13 @@ los últimos 4 (cuatro), esto para mayor seguridad.
 
 
 
-## 4. Hito: Criterios de aceptación mínimos del proyecto
+Vemos que cada input tiene la especificación del dato que el usuario debe ingresar, lo que permite que sea muy sencillo su diligenciamiento, cuenta con colores sobrios, letras de buen tamaño y claras y un botón grande de validación.
 
-Estos son los requisitos que tu proyecto debe que cumplir para asegurar que tu
-trabajo cubra los objetivos principales.
 
-**1. Una interfaz que debe permitir a la usuaria:**
 
-* Insertar un numero (texto) que quieres validar. Usa solo caracteres numéricos
-  (dígitos) en la tarjeta a validar [0-9].  
-* Ver si el resultado es válido o no.  
-* Ocultar todos los dígitos del número de tarjeta a exepción de los últimos
-  4 caracteres.  
-* No debes poder ingresar un campo vacío.  
 
-**2. Pruebas unitarias de los métodos.**  
-Los metódos de `validator` (`isValid` y `maskify`) deben tener cobertura con
-pruebas unitarias.
 
-**3. Código de tu proyecto subido a tu repo e interfaz "desplegada".**  
-El código final debe estar subido en un repositorio en GitHub. La interfaz o
-pagina web, debe ser "desplegada" (accesible públicamente online) usando
-GitHub Pages.
-  
-**4. Un README que contiene una definición del producto.**  
-En el README cuéntanos cómo pensaste en los usuarios y cuál fue tu proceso
-para definir el producto final a nivel de experiencia y de interfaz.  
-Estas preguntas sirven como guía:
-
-* Quiénes son los principales usuarios de producto.
-* Cuáles son los objetivos de estos usuarios en relación con tu producto.
-* Cómo crees que el producto que estás creando está resolviendo sus problemas.
-
-Con estos requisitos cumplidos puedes
-[considerar agendar un Project Feedback con unx coach.](#9-para-considerar-project-feedback)
-
-## 5. Hito Opcional: Mostrar la franquicia de tarjeta
-
-Las partes opcionales tienen como intención permitirte profundizar un poco más
-sobre los objetivos de aprendizaje del proyecto. Todo en la vida tiene pros y
-contras, decide sabiamente si quieres invertir el tiempo en profundizar/
-perfeccionar o aprender cosas nuevas en el siguiente proyecto.
-
-En hito 2 puedes además de validar si el número de la
-tarjeta es válida, mostrar la [franquicia](https://es.wikipedia.org/wiki/N%C3%BAmero_de_tarjeta_bancaria)
-de la tarjeta (ej: Visa, MasterCard, etc)
-usando estas [reglas de validación](https://stevemorse.org/ssn/cc.html).
-Si escribes un nuevo método para eso, hay que hacer pruebas unitarias.
-
-## 6. Consideraciones técnicas
+## 4. Consideraciones técnicas
 
 La lógica del proyecto debe estar implementada completamente en JavaScript. En
 este proyecto NO está permitido usar librerías o frameworks, solo JavaScript
