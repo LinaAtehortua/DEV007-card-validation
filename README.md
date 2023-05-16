@@ -27,28 +27,16 @@ funcionalidad estaban dadas.
 
 
 
+Se trabajo bajo los fundamentos de JavaScript, incluyendo conceptos como variables, condicionales, y funciones, 
+así como eventos y manejo básico del DOM, fundamentos de HTML y CSS. Aunque el proyecto se desarrolló de manera 
+individual, siempre tuve apoyo a mi alrededor lo que me permitió avanzar en el proyecto.
 
 
 
 
+## 2. Objetivos de aprendizaje
 
-## 2. Resumen del proyecto
 
-En este proyecto tendrás que construir una aplicación web que le permita a un
-usuario validar el número de una tarjeta de crédito. Además, tendrás que
-implementar funcionalidad para ocultar todos los dígitos de una tarjeta menos
-los últimos cuatro.
-
-La temática es libre. Tú debes pensar en qué situaciones de la vida real se
-necesitaría validar una tarjeta de crédito y pensar en cómo debe ser esa
-experiencia de uso (qué pantallas, explicaciones, mensajes, colores, ¿marca?)
-etc.
-
-Como continuación del proyecto de preadmisión, volverás a trabajar sobre
-fundamentos de JavaScript, incluyendo conceptos como variables, condicionales,
-y funciones, así como eventos y manipulación básica del DOM, fundamentos de
-HTML y CSS. Mientras desarrollas este proyecto, te familiarizarás con nuevos
-conceptos también.
 
 ### Los objetivos generales de este proyecto son los siguientes
 
